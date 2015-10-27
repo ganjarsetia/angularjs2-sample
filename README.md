@@ -13,7 +13,7 @@ just open **index.html** in your browser
 
 ## History
 
-See [Releases](https://github.com/ganjarsetia/angular2-sample/releases) for detailed changelog.
+See [Releases](https://github.com/ganjarsetia/angularjs2-sample/releases) for detailed changelog.
 
 ## License
 
